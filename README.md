@@ -1,5 +1,6 @@
 # weLoveMovies
 This project is designed to test skills on building complex servers and accessing data through a database.
+![image](https://user-images.githubusercontent.com/75879876/120984204-49c57600-c72f-11eb-8b93-8d0faa26ef4c.png)
 
 ## Objectives
 - Install and use common middleware packages
