@@ -1,7 +1,7 @@
 # weLoveMovies
 This project is designed to test skills on building complex servers and accessing data through a database.
 
-##Objectives
+## Objectives
 - Install and use common middleware packages
 - Receive requests through routes
 - Run tests from the command line
