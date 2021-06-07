@@ -1,6 +1,7 @@
 # weLoveMovies
-This project is designed to test your ability to build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate that you can do the following:
+This project is designed to test skills on building complex servers and accessing data through a database.
 
+##Objectives
 - Install and use common middleware packages
 - Receive requests through routes
 - Run tests from the command line
